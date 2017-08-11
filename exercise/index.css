@@ -1,0 +1,18 @@
+body{
+    font-family: sans-serif;
+   }
+h1,h2{
+    color:grey;
+}
+h1{
+    border-bottom: 1px solid black;
+}
+h2{
+    text-decoration: underline;
+}
+p{
+    color:red;
+}
+em{
+    font-family: serif;
+}
